@@ -29,10 +29,10 @@ const Footer = () => {
           <span>Work</span>
         </div>
         <div className="footer-section-columns">
-          <span>+91 9586214556</span>
-          <span>hello@gmail.com</span>
-          <span>press@gmail.com</span>
-          <span>contact@gmail.com</span>
+          <span>+91 9520254143</span>
+          <span>Bhanurawal.30@gmail.com</span>
+          <span>Bhanurawal.30@gmail.com</span>
+          <span>Bhanurawal.30@gmail.com</span>
         </div>
         <div className="footer-section-columns">
           <span>Terms & Conditions</span>
